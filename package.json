@@ -1,0 +1,9 @@
+{
+  "name": "linguaai-assistant",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "openai": "^4.0.0",
+    "cors": "^2.8.5"
+  }
+}

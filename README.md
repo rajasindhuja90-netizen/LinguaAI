@@ -1,4 +1,5 @@
 🤖 LinguaAI Assistant Chatbot
+
 📌 Introduction
 
 LinguaAI Assistant is an AI-powered chatbot designed to enable seamless human-computer interaction using Natural Language Processing (NLP). 
@@ -21,24 +22,25 @@ AI/NLP: (OpenAI / Gemini / etc.)
 
 Clone the repository
 git clone https://github.com/rajasindhuja90-netizen/LinguaAI-Assistant.git
-Open the project
-cd LinguaAI-Assistant
-Run the application
-Open nlp-chatbot.html in your browser
+-> Open the project
+-> cd LinguaAI-Assistant
+-> Run the application
+-> Open nlp-chatbot.html in your browser
 
 🎯 Use Cases
 
-Student learning assistant
-Language practice tool
-Basic AI support system
+-> Student learning assistant
+-> Language practice tool
+-> Basic AI support system
 
 🔮 Future Improvements
 
-Voice interaction
-Context memory
-Advanced AI integration
+-> Voice interaction
+-> Context memory
+-> Advanced AI integration
 
 👩‍💻 Author
 
 Sindhuja R
+
 Chamala Venkata Navya
